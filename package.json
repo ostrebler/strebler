@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "build": "gatsby build"
   },
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "^1.1.0",
