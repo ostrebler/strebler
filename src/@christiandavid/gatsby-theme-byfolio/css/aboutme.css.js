@@ -47,6 +47,7 @@ const styles = {
   portrait: css`
     display: block;
     margin: 52px auto 0;
+    width: 90%;
     max-width: 400px;
   `
 };
