@@ -1,0 +1,15 @@
+{
+  "name": "strebler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "@christiandavid/gatsby-theme-byfolio": "^1.1.0",
+    "gatsby": "^2.19.24",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
